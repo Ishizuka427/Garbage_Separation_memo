@@ -3,9 +3,9 @@
 
 可燃　|　不燃　|　資源・ペット　| 有価物
 -- | -- | -- | -- 
-月木（夜）|第1月曜日| 金 |　火
+月木（夜）|第1月曜日| 金 |　火　　
 
-※夜: 19:30まで　　
+※夜: 19:30まで<br>
 ※朝: 8:30まで
 
 ## 不燃
@@ -30,9 +30,11 @@
 - 針金ハンガー
 
 ## 有価物
-- 新聞紙・紙パック・段ボール
+- 新聞紙
+- 紙パック
+- 段ボール
 
 ## 粗大ゴミ
-047-457-4153　　
-https://www.city.funabashi.lg.jp/kurashi/gomi/002/p001549.html#mail　　
+047-457-4153<br>
+https://www.city.funabashi.lg.jp/kurashi/gomi/002/p001549.html#mail<br>
 sodaigomi@city.funabashi.lg.jp
