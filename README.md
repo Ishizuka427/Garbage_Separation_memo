@@ -1,1 +1,2 @@
 # Garbage_Separation_memo
+ごみ出しのルールを守りましょう
