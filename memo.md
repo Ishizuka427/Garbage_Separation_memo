@@ -35,6 +35,4 @@
 - 段ボール
 
 ## 粗大ゴミ
-047-457-4153<br>
-https://www.city.funabashi.lg.jp/kurashi/gomi/002/p001549.html#mail<br>
-sodaigomi@city.funabashi.lg.jp
+Coming soon..
